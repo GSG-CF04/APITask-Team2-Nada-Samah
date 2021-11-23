@@ -20,7 +20,7 @@
 
 # API documentation <span id="API"></span>
 
-You can visit API[here](https://www.boredapi.com/api/activity)
+You can visit API [here](https://www.boredapi.com/api/activity)
 
 <br>
 
